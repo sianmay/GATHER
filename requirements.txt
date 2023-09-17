@@ -1,0 +1,12 @@
+numpy
+Cython
+matplotlib
+pandas
+torch
+scipy
+scikit-posthocs
+ECAgent
+Pillow
+argparse
+animatplot
+networkx
